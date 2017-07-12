@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tabayashi/gulpplus-router.git"
+    "url": "git+https://github.com/tabayashi/gulp.plus-router.git"
   },
   "bugs": {
-    "url": "https://github.com/tabayashi/gulpplus-router/issues"
+    "url": "https://github.com/tabayashi/gulp.plus-router/issues"
   },
-  "homepage": "https://github.com/tabayashi/gulpplus-router#readme",
+  "homepage": "https://github.com/tabayashi/gulp.plus-router#readme",
   "keywords": [
     "gulp",
     "router",
